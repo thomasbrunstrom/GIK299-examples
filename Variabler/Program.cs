@@ -20,7 +20,7 @@ namespace Variabler
 
             //DynamicInitilization();
 
-            ImplicitlyTypedVar();
+            //ImplicitlyTypedVar();
 
             Console.WriteLine("Press enter to end program.");
             Console.ReadLine(); // End of program, wait for user input before we close program.
@@ -49,7 +49,6 @@ namespace Variabler
             Console.WriteLine(d);
             Console.WriteLine(e);
             Console.WriteLine(f);
-            Console.ReadLine();
         }
 
         static void InitChar() 
