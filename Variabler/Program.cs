@@ -8,9 +8,9 @@ namespace Variabler
         {
             Console.WriteLine("Intro till variabler, Main");
             
-            //VariableTypes();
+            VariableTypes();
             
-            //InitChar();
+            InitChar();
 
             //InitBool();
 
