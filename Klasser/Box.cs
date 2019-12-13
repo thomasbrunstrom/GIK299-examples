@@ -33,7 +33,7 @@ namespace Klasser
         }
         public virtual double GetVolume()
         {
-            Console.WriteLine("GetVolume in parent");
+            Console.WriteLine("GetVolume in Box");
             return height * width * length;
         }
     }
