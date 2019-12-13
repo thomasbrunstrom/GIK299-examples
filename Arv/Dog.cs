@@ -2,7 +2,7 @@ using System;
 
 namespace Arv
 {
-    public class Dog : Animal
+    public class Dog : Animal, IAnimal
     {
         public Dog(DateTime birthDay) 
             //Call emtpy constructor before we do anything inside here.
